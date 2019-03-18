@@ -21,6 +21,6 @@ See
 [Denning (1989)](http://denninginstitute.com/pjd/PUBS/amsci-sdm.pdf) for an explanation of the SDM demos.
 
 
-<a href="ravens.html"><img src=images/ravens.png height=200></a>
+<a href="ravens.md"><img src=images/ravens.png height=200></a>
 
-<a href="necker.html"><img src=images/necker-cube.png height=200></a>
+<a href="necker.md"><img src=images/necker-cube.png height=200></a>
