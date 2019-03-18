@@ -23,4 +23,4 @@ See
 
 <a href="ravens/README.md"><img src=images/ravens.png height=200 align="left"></a>
 
-<a href="necker/necker.md"><img src=images/necker-cube.png height=200></a>
+<a href="necker/README.md"><img src=images/necker-cube.png height=200></a>
