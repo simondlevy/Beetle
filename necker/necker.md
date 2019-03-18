@@ -1,11 +1,3 @@
-<html><head><title>Wittgenstein VSA</title></head>
-
-<BODY BGCOLOR= linen LINK="00 00 FF" >
-
-<h1>Software for <i>Bracketing the Beetle</i></h2>
-
-</ul>                                                                                                     
-
 <h2>The Necker Cube in VSA</h2>
 
 <img src="necker-cube.png" height=200>
