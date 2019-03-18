@@ -5,7 +5,7 @@ issues raised in the later work of [Ludwig Wittgenstein](http://en.wikipedia.org
 
 To try out these demos, clone this repository, launch Matlab, and
 do <b>Set Path / Add with Subfolders ...</b>
-to add the <b>wittvsa</b> folder and its subfolders to your path. You can then
+to add the repository folder and its subfolders to your path. You can then
 run the following demos:
 
 * <b>ravens</b> Raven's Progressive Matrices demo
