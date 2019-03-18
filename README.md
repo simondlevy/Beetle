@@ -18,8 +18,7 @@ run the following demos:
 
 Click on one of images below for an explanation of the corresponding model.
 See 
-<a href="http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fcs.gmu.edu%2Fcne%2Fpjd%2FPUBS%2Famsci-sdm.pdf&ei=7fxIUvarEazB4APKwoGIDA&usg=AFQjCNHeh04iCo3RAayw7FMNEZZYhLPbgw&bvm=bv.53217764,d.dmg">
-Denning (1989)</a> for an explanation of the SDM demos.
+[Denning (1989)](http://denninginstitute.com/pjd/PUBS/amsci-sdm.pdf) for an explanation of the SDM demos.
 
 
 <a href="ravens.html"><img src=images/ravens.png height=200></a>
